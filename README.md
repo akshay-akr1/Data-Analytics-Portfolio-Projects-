@@ -1,1 +1,1 @@
-Power Bi Project 
+Data Analysis projects with interactive and dynamic data views, extraction, manipulation using Excel, SQL, Python, Power Bi, Data Analysis, Data Manipulation, Descriptive Statistics, Inferential Statistics, Problem Solving, Business Sense, Data Modelling, Data Mining. 
